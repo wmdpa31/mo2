@@ -46,7 +46,7 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: 'feed',
       content: {
-        title: '장민석 ♥ 이지연의 모바일 청첩장',
+        title: '김봉수 ♥ 이윤정의 모바일 청첩장',
         description: '결혼식에 초대합니다♡',
         imageUrl: 'https://i.imgur.com/JWVYIiU.png',
         imageWidth: 1200,
